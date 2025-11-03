@@ -1,14 +1,16 @@
 ---
-title: "Hi, I'm Caleb Curry"
+title: "Hi, I'm NOT Caleb Curry. I am Adam Rakhamim"
 layout: 'single'
 toc: true
 toc_sticky: true
 share: false
 author_profile: true
-author: Caleb Curry
+author: Adam R
 ---
 
 <link rel="stylesheet" href="assets/css/custom.css">
+
+# THIS IS A TEMPLATE COPY - WEB PAGE IN PROGRESS
 
 ## Roles I'm Qualified for...
 
